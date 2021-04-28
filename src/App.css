@@ -28,6 +28,9 @@
 .card{
   background-color: #7df6cf !important;
 }
+.card:hover{
+  cursor: pointer;
+}
 .inputSearch{
   width: 50% !important;
   
