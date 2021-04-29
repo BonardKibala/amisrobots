@@ -47,10 +47,11 @@
   color: #0ccac4;
   font-size: 3rem;
 }
-.loading{
+.loadingstyle{
   font-family: 'SEGA LOGO FONT';
   font-weight: 700;
-  color: #0ccac4;
+  color: #0ccac4 ;
+  background-image:linear-gradient(to right bottom, #2D777B,#062557 ) !important;;
   font-size: 4rem;
   height: 100vh;
   text-align: center;
